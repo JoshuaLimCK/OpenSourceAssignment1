@@ -14,8 +14,6 @@ export const barriers: string = `Accessing healthcare can be challenging for man
 
 4. Limited availability of healthcare providers: In some regions, there may be a shortage of healthcare providers, especially in specialty areas or underserved communities. This can result in long wait times for appointments, limited availability of services, and difficulty accessing necessary care in a timely manner.
 
-5. Cultural and social barriers: Cultural beliefs, stigma, and discrimination can also pose barriers to healthcare access for individuals from diverse backgrounds. Some individuals may avoid seeking care due to fear of judgement, lack of cultural competence among healthcare providers, or lack of awareness about available services.
-
 Addressing these barriers to healthcare access requires a comprehensive approach that involves policy changes, increased funding for affordable care options, improved transportation infrastructure, expanded language services, and culturally competent care. Collaboration between healthcare providers, community organizations, and government agencies is essential to overcome these barriers and ensure equitable access to healthcare for all individuals.`;
 
 export const disparities: string = `Racial and ethnic minorities, low-income individuals, and those living in rural areas often face disparities in healthcare access compared to the general population.

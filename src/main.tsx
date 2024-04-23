@@ -44,7 +44,7 @@ const router = createBrowserRouter([
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <main className="flex flex-col min-h-screen items-center ">
-      <nav className="self-start md:self-center ">
+      <nav className="self-start lg:self-center ">
         <SideNav />
         <Navbar />
       </nav>
